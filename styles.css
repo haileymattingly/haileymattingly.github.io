@@ -88,17 +88,17 @@ img {
 }
 
 .c-hero-flex__item:nth-child(1) {
-    background: #222 url("../hm-portfolio/assets/webdev.jpg") no-repeat center center;
+    background: #222 url("../assets/webdev.jpg") no-repeat center center;
     background-size: cover;
 }
 
 .c-hero-flex__item:nth-child(2) {
-    background: #222 url("../hm-portfolio/assets/social.jpg") no-repeat center center;
+    background: #222 url("../assets/social.jpg") no-repeat center center;
     background-size: cover;
 }
 
 .c-hero-flex__item:nth-child(3) {
-    background: #222 url("../hm-portfolio/assets/ss.jpg") no-repeat center center;
+    background: #222 url("../assets/ss.jpg") no-repeat center center;
     background-size: cover;
 }
 
